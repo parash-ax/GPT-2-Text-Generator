@@ -59,7 +59,5 @@ This project is licensed under the MIT License.
 ## 🌟 Star the Repository!
 If you found this useful, please ⭐ the repository to show support!
 
----
-
-🔗 **Demo:** [Your Demo Link Here]  
+---  
 📧 **Contact:** [parash1310@gmail.com]
