@@ -48,7 +48,7 @@ This project uses the **GPT-2 model** from Hugging Face's `transformers` library
 - Flask (for Web UI)
 
 ## 📸 Screenshots
-![UI Preview](https://your-image-link-here.com/ui-preview.png)
+![UI Preview](https://sendbird.imgix.net/cms/The-best-AI-chatbots-of-2024_img12.png)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
