@@ -1,6 +1,6 @@
 # GPT-2 Text Generator 🚀
 
-![GPT-2 Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Thought_bubble.svg)
+![GPT-2 Logo](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/11-Oct-2022-1200x600_SoHY84J.jpg)
 
 A powerful text generation tool using OpenAI's GPT-2 model. This project enables users to generate human-like text from custom prompts. It supports fine-tuning on custom datasets and provides an easy-to-use interface.
 
